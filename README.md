@@ -1,19 +1,19 @@
 # deepLearning_UCAS2019
-###deep learning projects in UCAS,2019;2019年UCAS深度学习课程的课程项目
+### deep learning projects in UCAS,2019;2019年UCAS深度学习课程的课程项目
 -------------------------------------------
-#####1. 手写数字识别; Handwritten digit recognition
+##### 1. 手写数字识别; Handwritten digit recognition
 --------------------------------------------
-#####2.车牌号码识别;  License plate recognition(LPR)
+##### 2.车牌号码识别;  License plate recognition(LPR)
 --------------------------------------------
-#####3.迁移学习，猫狗分类；classify catdog
+##### 3.迁移学习，猫狗分类；classify catdog
 --------------------------------------------
-#####4.行人检测; pedestrians detection
+##### 4.行人检测; pedestrians detection
 ---------------------------------------
-#####5.神经语言模型;
+##### 5.神经语言模型;
 --------------------------------
-#####6.神经网络文本摘要; text summary
+##### 6.神经网络文本摘要; text summary
 -------------------------------------
-#####7.英文数字语音识别; digital speech recognition
+##### 7.英文数字语音识别; digital speech recognition
 ------------------------------------------
-#####8.声纹识别; Voiceprint recognition(VPR)
+##### 8.声纹识别; Voiceprint recognition(VPR)
 --------------------------------------
